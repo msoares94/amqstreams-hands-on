@@ -1,1 +1,0 @@
-# amqstreams-hands-on
